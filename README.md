@@ -1,3 +1,3 @@
 # DBN
 # Download GUI (sourcetree) preferred
-# familiarize with code
+# familiarize self with code
