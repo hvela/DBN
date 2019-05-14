@@ -139,8 +139,27 @@ ul a{
 .fa-rss {
   background: #ff6600;
   color: white;
+
 }
 /*end social media*/
+
+/*to customize heading backgrounds*/
+#jokeBox{
+  background-color: #AAAAAA;
+  padding: 1%;
+}
+
+#statBox{
+  background-color: #AAAAAA;
+  padding: 1%;
+}
+
+
+#networkBox{
+  background-color: #AAAAAA;
+  padding: 1%;
+}
+
 
 .footer {
    position: fixed;
