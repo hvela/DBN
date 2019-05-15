@@ -144,6 +144,7 @@ ul a{
 /*end social media*/
 
 /*to customize heading backgrounds*/
+
 #jokeBox{
   background-color: #AAAAAA;
   padding: 1%;
@@ -174,6 +175,7 @@ ul a{
 
 
 /*this is the css used for the slideshow*/
+
 * {box-sizing: border-box}
 body {font-family: Verdana, sans-serif; margin:0}
 .mySlides {display: none}
